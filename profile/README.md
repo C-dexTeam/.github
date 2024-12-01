@@ -1,4 +1,4 @@
-## Learn To Build Projects In Solana With Codex 🏗️
+## Learn To Build Projects In Solana With C∅dex 🏗️
 
 Codex is an educational platform, initially running on Web 2, now integrated into the Solana ecosystem. Users can experience Solana technologies through live coding tasks and gain access to new training by earning NFT rewards. The platform supports interactive learning processes and offers exclusive training and mentoring opportunities for premium NFT holders.
 
